@@ -5,7 +5,7 @@ import numpy as np
 blue_lower = np.array([100, 150, 0])
 blue_upper = np.array([140, 255, 255])
 
-# Create a canvas to draw on
+# Create a canvas to draw ons
 canvas = None
 
 # Start video capture
