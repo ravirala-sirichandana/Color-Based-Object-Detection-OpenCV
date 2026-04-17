@@ -1,4 +1,4 @@
-# Color-Based Object Detection and Tracking using OpenCV
+# 🚀Color-Based Object Detection and Tracking using OpenCV
 
 This project demonstrates **color-based object detection and tracking** using OpenCV in Python.  
 By selecting a specific color range (in HSV color space), the system detects the object in the video frame and either:
